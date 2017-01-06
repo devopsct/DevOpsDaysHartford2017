@@ -24,7 +24,7 @@ Working list of what we should have here and our discussion information. Feel fr
 
 1. [Code of Conduct](Code_of_conduct.md)
 2. [Venue Information](venue.md)
-3. Dates
+3. [Dates](dates.md)
 4. Lodging
 5. Speakers
 6. Swag
