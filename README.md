@@ -27,4 +27,4 @@ Working list of what we should have here and our discussion information. Feel fr
 3. [Dates](dates.md)
 4. Lodging
 5. Speakers
-6. Swag
+6. [Swag](Swag.md)
