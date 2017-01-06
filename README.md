@@ -23,7 +23,7 @@ $OfficialWebsiteHere.
 Working list of what we should have here and our discussion information. Feel free to submit requests for what should be here and what shouldn't. Remember: This is for discussion information and documentation, not for official publication, etc.
 
 1. [Code of Conduct](Code_of_conduct.md)
-2. Venue Information
+2. [Venue Information](venue.md)
 3. Dates
 4. Lodging
 5. Speakers
