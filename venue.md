@@ -70,7 +70,7 @@ Turns out CCC, Marriott and the Hilton are all owned by the same company, so the
 ### Against
 
 #### Contact Information
-* Steve Ranhs (I can't read my notes. It's definitely Steve, I don't know his last name - Aaron)
+* Steve Ranno
 ** (860) 728-2657
 
 #### Rooms
