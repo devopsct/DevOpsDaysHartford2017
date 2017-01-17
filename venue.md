@@ -55,37 +55,42 @@ Venues in Hartford
 Scroll down to find their contact info.
 
 #### Rooms
+
 #### Pricing
-#### Cost
 
 ### Connecticut Convention Center
 Turns out CCC, Marriott and the Hilton are all owned by the same company, so there's that. Room pricing is available regardless of where we host this.  
 * [Connecticut Convention Center](http://www.ctconventions.com/)
+
+#### Contact Information
+* Steve Ranno
+  * (860) 728-2657
+  * sranno@ctconventions.com
 
 #### For
 * Conventions is what they do
 * Catering available
 * Room discounts available for the Marriott
 
-### Against
-
-#### Contact Information
-* Steve Ranno
-** (860) 728-2657
+#### Against
+* 10/31 - 11/1 availability is not ideal.
 
 #### Rooms
+* Adequate and available
+
 #### Pricing
-#### Cost
-* Pending response from Steve, Expected Monday or early next week
+* $8,100 w/ $32,0000 in catering.
+* no parking provided at this price, but available to validate
 
 #### ToDo
-* Visit the space
-* Receive pricing
-* Date Availibility
+* Visit and See if we can get date adjustment
 
 ### Hartford Marriott
 Also owned by the same company that owns the CCC and Hilton.
 * [Hartford Marriott](http://www.marriott.com/hotels/travel/bdldt-hartford-marriott-downtown/)
+
+#### Availability
+* November 14th & 15th
 
 #### For
 * Hotel - Easy lodging and access for those staying
@@ -95,15 +100,43 @@ Also owned by the same company that owns the CCC and Hilton.
 
 #### Contact Information
 * Randy - Sales manager
-** (860) 760-2250
+  * (860) 760-2250
 
 #### Rooms
+* 1 large 3-suite room divisible into parts for the Open Spaces
+* Smaller rooms also available for Open Spaces
+
 #### Pricing
-#### Cost
+* $1,000/day for larger space
+* Smaller rooms at add'l $400/day per each.
+* Other Services are a la carte
+  * Food
+  * Wifi
+  * Electricity at Vendor Booths
+  * OnCall Table
+  * AV Setups
 
 #### ToDo
 Currently waiting on return information from the venue
 
 * Visit space
 * Pricing
-* Availibility
+* Availability
+
+### Wadsworth Atheneum
+* [Wadsworth Atheneum](https://thewadsworth.org/about/eventrentals/)
+
+#### For
+* Culturally more interesting than a hotel
+
+#### Against
+
+#### Contact Information
+
+#### Rooms
+
+#### Pricing
+
+## New Haven
+
+### Yale
