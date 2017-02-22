@@ -28,3 +28,4 @@ Working list of what we should have here and our discussion information. Feel fr
 4. Lodging
 5. Speakers
 6. [Swag](Swag.md)
+7. [Sponsorship Information](sponsors.md)
