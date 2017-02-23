@@ -6,13 +6,13 @@ In the spirit of collaboration, contribution and inclusively, here we are on Git
 ## Organizers
 Presented in no particular order:
 
-1. Aaron Aldrich
-2. Jose Andrade
-3. Scott Russell
-4. David Long
-5. Eric Loveland
-6. Serena Ness
-7. David James
+1. Aaron Aldrich - 
+2. Jose Andrade -
+3. Scott Russell -
+4. David Long -
+5. Eric Loveland -
+6. Serena Ness -
+7. David James -
 
 ## Website
 Our current site for more information and official public correspondence:

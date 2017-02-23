@@ -2,7 +2,7 @@
 
 Sponsoring DevOpsDays connects your business to people who influence the security, operational, engineering, monitoring, quality, and product development in our local technical and business communities. DevOpsDays Hartford offers the following sponsorship packages for 2017, held October 10-11 at the [Society Room of Hartford](http://www.hartfordsocietyroom.com/). We're expecting about 200 attendees for our inaugural year. For mor questions about sponsorship, please email the organizers at [organizers-hartford-2017@devopsdays.org](mailto:organizers-hartford-2017@devopsdays.org).
 
-|| Packages                                                          | Bronze - $1000 | Silver - $2500 | Gold - $5000 | Happy Hour - $6500 |
+| Packages                                                          | Bronze - $1000 | Silver - $2500 | Gold - $5000 | Happy Hour - $6000 |
 |-------------------------------------------------------------------|----------------|----------------|--------------|--------------------|
 | Tickets                                                           |        1       |        2       |       4      |          4         |
 | Logo on website                                                   |        X       |        X       |       X      |          X         |
