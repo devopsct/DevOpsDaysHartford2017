@@ -19,10 +19,6 @@ Sponsoring DevOpsDays connects your business to people who influence the securit
 | Table in High-Traffic Location                                    |                |                |       X      |          X         |
 | Full access to decorate bar area and host demos during Happy Hour |                |                |              |          X         |
 
-## Floorplan
-
-$floorplan_here
-
 ## Sponsor FAQ
 
 1. How big is our booth space?
