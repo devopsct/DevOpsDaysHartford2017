@@ -24,7 +24,7 @@ Sponsoring DevOpsDays connects your business to people who influence the securit
 
 ## Mug sponsorship
 
-In lieu of t-shirts, we attendees will receive diner-style mugs with their tickets for the conference. Sponsors at any level (bronze, silver, gold, or happy hour) have the option to add their logo to the mug given to attendees for an additional sponsorship cost of $500. The mug has only 4 available spots for logos with priority given to higher sponsorship levels.
+In lieu of t-shirts, attendees will receive diner-style mugs with their tickets for the conference. Sponsors at any level (bronze, silver, gold, or happy hour) have the option to add their logo to the mug given to attendees for an additional sponsorship cost of $500. The mug has only 4 available spots for logos with priority given to higher sponsorship levels. Being that these are meant to give the feel of the classic diner, we want sponsors to provide the hokeyest logos they can produce. Logos must be single color and will be printed in black ink.
 
 ![Diner Mug](https://storage.googleapis.com/cdn.cageops.com/dave/diner-mug.jpeg)
 
