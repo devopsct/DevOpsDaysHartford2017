@@ -20,7 +20,7 @@ Sponsoring DevOpsDays connects your business to people who influence the securit
 | Full access to decorate bar area and host demos during Happy Hour |                |                |              |          X         |             |
 | 1"x1" logo on mug given out to attendees                          |                |                |              |                    |      X      |
 
-*\*Mug sponsorship is only available to those that sponsor at other levels of sponsorship.*
+**Mug sponsorship is only available to those that sponsor at other levels of sponsorship.*
 
 ## Mug sponsorship
 
