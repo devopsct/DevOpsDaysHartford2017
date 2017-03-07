@@ -2,22 +2,31 @@
 
 Sponsoring DevOpsDays connects your business to people who influence the security, operational, engineering, monitoring, quality, and product development in our local technical and business communities. DevOpsDays Hartford offers the following sponsorship packages for 2017, held October 10-11 at the [Society Room of Hartford](http://www.hartfordsocietyroom.com/). We're expecting about 200 attendees for our inaugural year. For mor questions about sponsorship, please email the organizers at [organizers-hartford-2017@devopsdays.org](mailto:organizers-hartford-2017@devopsdays.org).
 
-| Packages                                                          | Bronze - $1000 | Silver - $2500 | Gold - $5000 | Happy Hour - $6000 |
-|-------------------------------------------------------------------|----------------|----------------|--------------|--------------------|
-| Tickets                                                           |        1       |        2       |       4      |          4         |
-| Logo on website                                                   |        X       |        X       |       X      |          X         |
-| Logo on email communications                                      |                |        X       |       X      |          X         |
-| Logo on shared slide during breaks & on TVs                       |        X       |        X       |              |                    |
-| Logo on Dedicated Slide                                           |                |                |       X      |          X         |
-| Logo on print banners                                             |                |        X       |       X      |          X         |
-| Mention on Social Media                                           |        X       |        X       |       X      |          X         |
-| Mention by MC during event                                        |                |                |       X      |                    |
-| Special announcement by  MC before Happy Hour                     |                |                |              |          X         |
-| 1 Min Pitch to Full Audience                                      |                |        X       |       X      |          X         |
-| Shared Table for giveaways                                        |        X       |        X       |              |                    |
-| Dedicated table for giveaways                                     |                |                |       X      |          X         |
-| Table in High-Traffic Location                                    |                |                |       X      |          X         |
-| Full access to decorate bar area and host demos during Happy Hour |                |                |              |          X         |
+| Packages                                                          | Bronze - $1000 | Silver - $2500 | Gold - $5000 | Happy Hour - $6000 | Mug - $500* |
+|-------------------------------------------------------------------|----------------|----------------|--------------|--------------------|-------------|
+| Tickets                                                           |        1       |        2       |       4      |          4         |             |
+| Logo on website                                                   |        X       |        X       |       X      |          X         |             |
+| Logo on email communications                                      |                |        X       |       X      |          X         |             |
+| Logo on shared slide during breaks & on TVs                       |        X       |        X       |              |                    |             |
+| Logo on Dedicated Slide                                           |                |                |       X      |          X         |             |
+| Logo on print banners                                             |                |        X       |       X      |          X         |             |
+| Mention on Social Media                                           |        X       |        X       |       X      |          X         |             |
+| Mention by MC during event                                        |                |                |       X      |                    |             |
+| Special announcement by  MC before Happy Hour                     |                |                |              |          X         |             |
+| 1 Min Pitch to Full Audience                                      |                |        X       |       X      |          X         |             |
+| Shared Table for giveaways                                        |        X       |        X       |              |                    |             |
+| Dedicated table for giveaways                                     |                |                |       X      |          X         |             |
+| Table in High-Traffic Location                                    |                |                |       X      |          X         |             |
+| Full access to decorate bar area and host demos during Happy Hour |                |                |              |          X         |             |
+| 1"x1" logo on mug given out to attendees                          |                |                |              |                    |      X      |
+
+*\*Mug sponsorship is only available to those that sponsor at other levels of sponsorship.*
+
+## Mug sponsorship
+
+In lieu of t-shirts, we attendees will receive diner-style mugs with their tickets for the conference. Sponsors at any level (bronze, silver, gold, or happy hour) have the option to add their logo to the mug given to attendees for an additional sponsorship cost of $500. The mug has only 4 available spots for logos with priority given to higher sponsorship levels.
+
+![Diner Mug](https://storage.googleapis.com/cdn.cageops.com/dave/diner-mug.jpeg)
 
 ## Sponsor FAQ
 
